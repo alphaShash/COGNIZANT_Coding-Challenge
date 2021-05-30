@@ -7,7 +7,6 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ApiService {
-  // apiUrl = 'https://www.themealdb.com/api/json/v1/1/categories.php'
 
   constructor(private httpClient: HttpClient) { }
 

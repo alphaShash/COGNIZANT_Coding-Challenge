@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from './services/api.service';
-//import { HttpClient } from '@angular/common/http';
-//import { Category } from './classes/categories.model';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -20,6 +18,6 @@ export class AppComponent implements OnInit {
       this.resData = data;
       this.catData = this.resData.categories;
     })
-    
+
   }
 }
