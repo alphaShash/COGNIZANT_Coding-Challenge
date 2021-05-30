@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Why?
+It is a LIVE CODING Challenge from Cognizant during first round of Interview
+
+## Task
+To fetch the Given JSON Data from the link provided and display on Website with the help of Angular HTTP Request API Call
